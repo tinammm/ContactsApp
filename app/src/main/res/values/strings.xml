@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="first_name">First Name</string>
+    <string name="edit_icon">Edit</string>
+    <string name="favourite_icon">Favourite</string>
+    <string name="delete_icon">Delete</string>
+    <string name="fab">fab</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="type">Type</string>
+    <string name="call_icon">Call icon</string>
+    <string name="delete_message">Are you sure you want to delete this contact?</string>
+</resources>
